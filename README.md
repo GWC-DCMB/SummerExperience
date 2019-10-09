@@ -8,9 +8,9 @@ The Practices directory contains practice exercises for students to spend ~30 mi
 
 Both Lessons and Practices directories contain Keys subdirectories that contain correctly completed versions of each lesson/practice exercise.
 
-Topics covered are as follows:
+## Schedule
 
-## Day One
+### Day One
   - Lesson 01: Setup with Google Colaboratory [(View in GitHub)](Lessons/Lesson01_Setup.md)
   - Lesson 02: Hello World and Intro to Variables
   - Lesson 03: More Variables and Types
@@ -19,35 +19,40 @@ Topics covered are as follows:
   - Lesson 06: Intro to 2D Lists
   - Lesson 07: 2D List Indexing and Subsetting
 
-## Day Two
+### Day Two
   - Lesson 08: Intro to Functions and Methods
   - Lesson 09: Intro to Packages
   - Lesson 10: Intro to Pandas
   - Lesson 11: Reading in Data with Pandas
   - Lesson 12: Slicing and Dicing DataFrames with Pandas
 
-## Day Three
+### Day Three
   - Lesson 13: Intro to Numpy
   - Lesson 14: Basic Stats I (Mean, Median, etc.)
   - Lesson 15: Basic Stats II (Count statistics, Percentages)
   - Lesson 16: Basic Stats III (Significance Testing, Correlations)
 
-## Day Four
+### Day Four
   - Lesson 17B: Line Graphs
   - Lesson 18B: Scatterplots
   - Lesson 19B: Bar Charts and Histograms
-  - <del>Lesson 17: Intro to Matplotlib
-  - <del>Lesson 18: Scatterplots and Line Graphs
-  - <del>Lesson 19: Histograms and Bar Charts
-  - <del>Lesson 20: Improving Plots I - Scatterplots and Line Graphs
-  - <del>Lesson 21: Improving Plots II - Bar Charts, Count Plots & Boxplots
 
-## Day Five
+### Day Five
   - [Example presentations](https://drive.google.com/open?id=1Rn10NGdVKYw5c9LaWQHT5BOJnrapmYbdsoBoHqs2myQ)
 
-# Important Links
+## Links for facilitators
+
+- [Starter Activities [Google Slides]](https://drive.google.com/open?id=1TA5UVyp1QSUdsD0yXZiYIj7_vxRyEcagqvuUHJbfT8w)
+- [Screenless Activities](https://github.com/gwc-dcmb/gwc-dcmb/activities)
+- [Live Coding Instructions](https://gist.github.com/zmml/402f7d362112bcea1e19eee63bcac0ee)
+- [Contrubuting Instructions](https://github.com/gwc-dcmb/gwc-dcmb/CONTRIBUTING.md)
+- [License](https://github.com/gwc-dcmb/gwc-dcmb/LICENSE.md)
+
+## Links for students
+
 - [Entrance survey](https://forms.gle/gXLj62T7bEMFipdv7)
-- [Activities](Activities/README.md)
 - [Reference Sheet](reference.md)
-- [Additional Resources](resources.md)
+- [Example presentations](https://drive.google.com/open?id=1Rn10NGdVKYw5c9LaWQHT5BOJnrapmYbdsoBoHqs2myQ)
+- [Additional Learning Resources](https://github.com/gwc-dcmb/gwc-dcmb/resources.md)
 - [Exit survey](https://forms.gle/uF74RVQXjnJ6xzLy8)
+

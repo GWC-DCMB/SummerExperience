@@ -14,38 +14,34 @@ Both Lessons and Practices directories contain `_Keys` subdirectories with corre
 ## Schedule
 
 ### Day 1
-- [Lesson01 Jupyter-Setup](Lesson01_Jupyter-Setup.md)
-- [Lesson01 Setup](Lesson01_Setup.md)
-- [Lesson02 HelloWorld Variables](Lesson02_HelloWorld_Variables.ipynb)
-- [Lesson03 Variables Types](Lesson03_Variables_Types.ipynb)
-- [Lesson04 Lists Intro](Lesson04_Lists_Intro.ipynb)
+- [Lesson01 Jupyter-Setup](Lessons/Lesson01_Jupyter-Setup.md)
+- [Lesson02 HelloWorld Variables](Lessons/Lesson02_HelloWorld_Variables.ipynb)
+- [Lesson03 Variables Types](Lessons/Lesson03_Variables_Types.ipynb)
+- [Lesson04 Lists Intro](Lessons/Lesson04_Lists_Intro.ipynb)
 
 ### Day 2
-- [Lesson05 Indexing](Lesson05_Indexing.ipynb)
-- [Lesson06 Logic](Lesson06_Logic.ipynb)
-- [Lesson07 Conditionals](Lesson07_Conditionals.ipynb)
-- [Lesson08 Functions and Methods](Lesson08_Functions_and_Methods.ipynb)
+- [Lesson05 Indexing](Lessons/Lesson05_Indexing.ipynb)
+- [Lesson06 Logic](Lessons/Lesson06_Logic.ipynb)
+- [Lesson07 Conditionals](Lessons/Lesson07_Conditionals.ipynb)
+- [Lesson08 Functions and Methods](Lessons/Lesson08_Functions_and_Methods.ipynb)
 
 ### Day 3
-- [Lesson09 Packages](Lesson09_Packages.ipynb)
-- [Lesson10 Pandas-Intro](Lesson10_Pandas-Intro.ipynb)
-- [Lesson11 Pandas-Reading](Lesson11_Pandas-Reading.ipynb)
+- [Lesson09 Packages](Lessons/Lesson09_Packages.ipynb)
+- [Lesson10 Pandas-Intro](Lessons/Lesson10_Pandas-Intro.ipynb)
+- [Lesson11 Pandas-Reading](Lessons/Lesson11_Pandas-Reading.ipynb)
+- [Lesson12 Pandas-Subsetting-I](Lessons/Lesson12_Pandas-Subsetting-I.ipynb)
 
 ### Day 4
-- [Lesson12 Pandas-Subsetting-I](Lesson12_Pandas-Subsetting-I.ipynb)
-- [Lesson13 Pandas-Subsetting-II](Lesson13_Pandas-Subsetting-II.ipynb)
-- [Lesson14 Numpy Intro](Lesson14_Numpy_Intro.ipynb)
+- [Lesson13 Pandas-Subsetting-II](Lessons/Lesson13_Pandas-Subsetting-II.ipynb)
+- [Lesson14 Numpy Intro](Lessons/Lesson14_Numpy_Intro.ipynb)
+- [Lesson15 Basic Stats I Averages](Lessons/Lesson15_Basic_Stats_I_Averages.ipynb)
+- [Lesson16 Basic Stats II Percents](Lessons/Lesson16_Basic_Stats_II_Percents.ipynb)
 
 ### Day 5
-- [Lesson15 Basic Stats I Averages](Lesson15_Basic_Stats_I_Averages.ipynb)
-- [Lesson16 Basic Stats II Percents](Lesson16_Basic_Stats_II_Percents.ipynb)
-- [Lesson17 Basic Stats III Correlations](Lesson17_Basic_Stats_III_Correlations.ipynb)
-
-### Day 6
-- [Lesson18 LineGraphs](Lesson18_LineGraphs.ipynb)
-- [Lesson19 Scatterplots](Lesson19_Scatterplots.ipynb)
-- [Lesson20 BarCharts Histograms](Lesson20_BarCharts_Histograms.ipynb)
-
+- [Lesson17 Basic Stats III Correlations](Lessons/Lesson17_Basic_Stats_III_Correlations.ipynb)
+- [Lesson18 LineGraphs](Lessons/Lesson18_LineGraphs.ipynb)
+- [Lesson19 Scatterplots](Lessons/Lesson19_Scatterplots.ipynb)
+- [Lesson20 BarCharts Histograms](Lessons/Lesson20_BarCharts_Histograms.ipynb)
 
 ### Day 7
 - Projects

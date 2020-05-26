@@ -1,6 +1,7 @@
 # Data Science Summer Experience
 
 [![build](https://github.com/GWC-DCMB/SummerExperience/workflows/build/badge.svg)](https://github.com/GWC-DCMB/SummerExperience/actions)
+[![check](https://github.com/GWC-DCMB/SummerExperience/workflows/check/badge.svg)](https://github.com/GWC-DCMB/SummerExperience/actions)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 This repository contains the curriculum materials for our Data Science Summer Experience.

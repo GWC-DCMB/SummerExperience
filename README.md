@@ -13,35 +13,45 @@ Both Lessons and Practices directories contain `_Keys` subdirectories with corre
 
 ## Schedule
 
-### Day One
-  - Lesson 01: Setup with Google Colaboratory [(View in GitHub)](Lessons/Lesson01_Setup.md)
-  - Lesson 02: Hello World and Intro to Variables
-  - Lesson 03: More Variables and Types
-  - Lesson 04: Intro to Lists
-  - Lesson 05: List Indexing and Subsetting
-  - Lesson 06: Intro to 2D Lists
-  - Lesson 07: 2D List Indexing and Subsetting
+### Day 1
+- [Lesson01 Jupyter-Setup](Lesson01_Jupyter-Setup.md)
+- [Lesson01 Setup](Lesson01_Setup.md)
+- [Lesson02 HelloWorld Variables](Lesson02_HelloWorld_Variables.ipynb)
+- [Lesson03 Variables Types](Lesson03_Variables_Types.ipynb)
+- [Lesson04 Lists Intro](Lesson04_Lists_Intro.ipynb)
 
-### Day Two
-  - Lesson 08: Intro to Functions and Methods
-  - Lesson 09: Intro to Packages
-  - Lesson 10: Intro to Pandas
-  - Lesson 11: Reading in Data with Pandas
-  - Lesson 12: Slicing and Dicing DataFrames with Pandas
+### Day 2
+- [Lesson05 Indexing](Lesson05_Indexing.ipynb)
+- [Lesson06 Logic](Lesson06_Logic.ipynb)
+- [Lesson07 Conditionals](Lesson07_Conditionals.ipynb)
+- [Lesson08 Functions and Methods](Lesson08_Functions_and_Methods.ipynb)
 
-### Day Three
-  - Lesson 13: Intro to Numpy
-  - Lesson 14: Basic Stats I (Mean, Median, etc.)
-  - Lesson 15: Basic Stats II (Count statistics, Percentages)
-  - Lesson 16: Basic Stats III (Significance Testing, Correlations)
+### Day 3
+- [Lesson09 Packages](Lesson09_Packages.ipynb)
+- [Lesson10 Pandas-Intro](Lesson10_Pandas-Intro.ipynb)
+- [Lesson11 Pandas-Reading](Lesson11_Pandas-Reading.ipynb)
 
-### Day Four
-  - Lesson 17B: Line Graphs
-  - Lesson 18B: Scatterplots
-  - Lesson 19B: Bar Charts and Histograms
+### Day 4
+- [Lesson12 Pandas-Subsetting-I](Lesson12_Pandas-Subsetting-I.ipynb)
+- [Lesson13 Pandas-Subsetting-II](Lesson13_Pandas-Subsetting-II.ipynb)
+- [Lesson14 Numpy Intro](Lesson14_Numpy_Intro.ipynb)
 
-### Day Five
-  - [Example presentations](https://drive.google.com/open?id=1Rn10NGdVKYw5c9LaWQHT5BOJnrapmYbdsoBoHqs2myQ)
+### Day 5
+- [Lesson15 Basic Stats I Averages](Lesson15_Basic_Stats_I_Averages.ipynb)
+- [Lesson16 Basic Stats II Percents](Lesson16_Basic_Stats_II_Percents.ipynb)
+- [Lesson17 Basic Stats III Correlations](Lesson17_Basic_Stats_III_Correlations.ipynb)
+
+### Day 6
+- [Lesson18 LineGraphs](Lesson18_LineGraphs.ipynb)
+- [Lesson19 Scatterplots](Lesson19_Scatterplots.ipynb)
+- [Lesson20 BarCharts Histograms](Lesson20_BarCharts_Histograms.ipynb)
+
+
+### Day 7
+- Projects
+
+### Day 8
+- Projects
 
 ## Links for facilitators
 
@@ -53,8 +63,6 @@ Both Lessons and Practices directories contain `_Keys` subdirectories with corre
 ## Links for students
 
 - [Entrance survey](https://forms.gle/gXLj62T7bEMFipdv7)
-- [Reference Sheet](reference.md)
 - [Example presentations](https://drive.google.com/open?id=1Rn10NGdVKYw5c9LaWQHT5BOJnrapmYbdsoBoHqs2myQ)
 - [Additional Learning Resources](https://github.com/gwc-dcmb/gwc-dcmb/resources.md)
-- [Exit survey](https://forms.gle/uF74RVQXjnJ6xzLy8)
 

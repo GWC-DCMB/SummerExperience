@@ -14,6 +14,8 @@ Both Lessons and Practices directories contain `_Keys` subdirectories with corre
 
 ## Schedule
 
+View all lesson videos to code along with [here](https://www.youtube.com/playlist?list=PLBPH_mMNNCM7kJ8QVqfK0L-iNfttuc4dp).
+
 ### Day 1
 - [Lesson01 Jupyter-Setup](Lessons/Lesson01_Jupyter-Setup.md)
 - [Lesson02 HelloWorld Variables](https://colab.research.google.com/github/GWC-DCMB/SummerExperience/blob/master/Lessons/Lesson02_HelloWorld_Variables.ipynb)

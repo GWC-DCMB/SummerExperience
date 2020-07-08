@@ -64,6 +64,9 @@ View all lesson videos to code along with [here](https://www.youtube.com/playlis
 ## Links for students
 
 - [Entrance survey](https://forms.gle/gXLj62T7bEMFipdv7)
-- [Example presentations](https://drive.google.com/open?id=1Rn10NGdVKYw5c9LaWQHT5BOJnrapmYbdsoBoHqs2myQ)
+- Projects:
+  - [Potential datasets](https://github.com/GWC-DCMB/CapstoneProject/tree/master/datasets#datasets)
+  - [Example presentation](https://docs.google.com/presentation/d/1eqQU8HjigSS5H_4AHli9Qt176faLRUlvpEcJlkH7qbQ/edit?usp=sharing)
+  - [Presentation template](https://docs.google.com/presentation/d/15TXFbR802VTzSFBNvo7mcN_DYyxz_6qLjBrP_95dEpQ/edit?usp=sharing)
 - [Additional Learning Resources](https://github.com/gwc-dcmb/gwc-dcmb/resources.md)
 

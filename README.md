@@ -14,7 +14,8 @@ Both Lessons and Practices directories contain `_Keys` subdirectories with corre
 
 ## Schedule
 
-View all lesson videos to code along with [here](https://www.youtube.com/playlist?list=PLBPH_mMNNCM7kJ8QVqfK0L-iNfttuc4dp).
+- Lesson videos to code along with: [YouTube playlist](https://www.youtube.com/playlist?list=PLBPH_mMNNCM7kJ8QVqfK0L-iNfttuc4dp)
+- Checklist for students to track progress: [GSheet](https://docs.google.com/spreadsheets/d/1FpMrFZHS_Z2FVa-0PSy1968IcUZZhLc3NttOjRXaYzs/edit?usp=sharing)
 
 ### Day 1
 - [Lesson01 Jupyter-Setup](Lessons/Lesson01_Jupyter-Setup.md)

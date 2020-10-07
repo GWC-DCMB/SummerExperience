@@ -16,7 +16,7 @@ Curriculum materials for our Data Science Summer Experience.
 
 |   | Lesson Video | Lesson Notebook | Practice Notebook |
 |---|---|---|---|
-| 1 |   | None, just watch the video. | [Practice01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice01_Jupyter-Setup.ipynb) |
+| 1 | https://youtu.be/cOyBRerxAJ0 | None, just watch the video. | [Practice01 Jupyter-Setup](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice01_Jupyter-Setup.ipynb) |
 | 2 |   | [Lesson02 HelloWorld Variables](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/Lesson02_HelloWorld_Variables.ipynb) | [Practice02 HelloWorld Variables](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice02_HelloWorld_Variables.ipynb) |
 | 3 |   | [Lesson03 Variables Types](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/Lesson03_Variables_Types.ipynb) | [Practice03 Variables Types](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice03_Variables_Types.ipynb) |
 | 4 |   | [Lesson04 Lists Intro](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/Lesson04_Lists_Intro.ipynb) | [Practice04 Lists Intro](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice04_Lists_Intro.ipynb) |
